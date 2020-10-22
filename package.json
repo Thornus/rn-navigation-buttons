@@ -1,6 +1,6 @@
 {
   "name": "rn-navigation-buttons",
-  "version": "0.0.9999",
+  "version": "0.1.0",
   "main": "./components/NavigationButtons.js",
   "scripts": {
     "android": "react-native run-android",
