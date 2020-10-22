@@ -1,7 +1,7 @@
 {
-  "name": "rnNavigationButtons",
-  "version": "0.0.99",
-  "private": true,
+  "name": "rn-navigation-buttons",
+  "version": "0.0.999",
+  "entry": "components/NavigationButtons.js",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
