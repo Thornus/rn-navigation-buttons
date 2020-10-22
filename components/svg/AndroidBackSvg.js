@@ -1,5 +1,5 @@
 import * as React from "react";
-import Svg, { Path } from "react-native-svg/lib/commonjs/index.js";
+import Svg, { Path } from "react-native-svg";
 
 function SvgComponent(props) {
   return (
