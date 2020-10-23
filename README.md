@@ -1,4 +1,4 @@
-<img src="/screenshots/example-screen-ios.png" width="80%" alt="Example Screen iOS"">
+<img src="/screenshots/example-screen-ios.png" height="200px" alt="Example Screen iOS"">
 
 # React Native Navigation Buttons
 
