@@ -1,6 +1,6 @@
 # React Native Navigation Buttons
 
-![Example Screen iOS](/screenshots/example-screen-ios.png "Example Screen iOS" | width=100)
+<img src="/screenshots/example-screen-ios.png" width="80%" alt="Example Screen iOS"">
 
 ## Getting started
 
