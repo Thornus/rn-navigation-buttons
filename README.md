@@ -1,6 +1,6 @@
 # React Native Navigation Buttons
 
-![Example Screen iOS](/screenshots/example-screen-ios.png "Example Screen iOS")
+![Example Screen iOS](/screenshots/example-screen-ios.png =250x "Example Screen iOS")
 
 ## Getting started
 
