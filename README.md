@@ -1,5 +1,7 @@
 # React Native Navigation Buttons
-![Example Screen iOS](/screenshots/example-screen-ios.png) <!-- .element height="200" -->
+<p align="center">
+  <img src="https://i.imgur.com/68RSHVb.png" width="40%"/>
+</p>
 
 ## Getting started
 

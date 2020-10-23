@@ -1,8 +1,13 @@
 {
   "name": "rn-navigation-buttons",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "./components/NavigationButtons.js",
-  "keywords": ["react-native", "buttons", "navigation", "javascript"],
+  "description": "Out-of-the-box customizable navigation buttons for React Native.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thornus/rn-navigation-buttons.git"
+  },
+  "keywords": ["react-native", "react-component", "buttons", "navigation", "javascript"],
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
