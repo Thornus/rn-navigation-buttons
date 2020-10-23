@@ -1,6 +1,5 @@
-<img src="/screenshots/example-screen-ios.png" height="200px" alt="Example Screen iOS"">
-
 # React Native Navigation Buttons
+![Example Screen iOS](/screenshots/example-screen-ios.png) <!-- .element height="200" -->
 
 ## Getting started
 
