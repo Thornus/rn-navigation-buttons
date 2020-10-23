@@ -1,6 +1,6 @@
-# React Native Navigation Buttons
-
 <img src="/screenshots/example-screen-ios.png" width="80%" alt="Example Screen iOS"">
+
+# React Native Navigation Buttons
 
 ## Getting started
 
